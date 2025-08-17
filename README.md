@@ -12,31 +12,31 @@ The objective of this project is to showcase how Excel can be used for data visu
 
 ## 🔑 Features
 
-• Toss winning teams & decisions
-• Top venues with most matches
-• Top players with Man of the Match awards
-• Top 5 most winning teams
-• Season-wise filter using slicers
+• Toss winning teams & decisions<br>
+• Top venues with most matches<br>
+• Top players with Man of the Match awards<br>
+• Top 5 most winning teams<br>
+• Season-wise filter using slicers<br>
 
 ## ⚙️ Tools & Techniques Used
 
-• Microsoft Excel
-• Pivot Tables & Pivot Charts
-• Slicers for season-wise filtering
-• Donut charts, Bar charts, and Column charts
-• Data cleaning & transformation
-• Visualization Techniques
-• Color-coded performance metrics
-• Dynamic filters for interactive analysis
-• Comparative analytics (teams, players, venues)
+• Microsoft Excel<br>
+• Pivot Tables & Pivot Charts<br>
+• Slicers for season-wise filtering<br>
+• Donut charts, Bar charts, and Column charts<br>
+• Data cleaning & transformation<br>
+• Visualization Techniques<br>
+• Color-coded performance metrics<br>
+• Dynamic filters for interactive analysis<br>
+• Comparative analytics (teams, players, venues)<br>
 
 ## 📊 Insights Derived
 
-• Teams prefer chasing, as shown by the majority of toss-winning decisions.
-• Mumbai Indians and Chennai Super Kings consistently dominate in overall wins.
-• Chris Gayle and AB de Villiers are standout performers in terms of MOM awards.
-• Matches are concentrated in a few major venues, with Bengaluru and Kolkata leading.
-• Toss advantage varies across teams but doesn’t always translate into match wins.
+• Teams prefer chasing, as shown by the majority of toss-winning decisions.<br>
+• Mumbai Indians and Chennai Super Kings consistently dominate in overall wins.<br>
+• Chris Gayle and AB de Villiers are standout performers in terms of MOM awards.<br>
+• Matches are concentrated in a few major venues, with Bengaluru and Kolkata leading.<br>
+• Toss advantage varies across teams but doesn’t always translate into match wins.<br>
 
 
 ### Screenshots / Demos
