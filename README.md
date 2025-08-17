@@ -54,3 +54,7 @@ Chris Gayle and AB de Villiers are standout performers in terms of MOM awards.
 Matches are concentrated in a few major venues, with Bengaluru and Kolkata leading.
 
 Toss advantage varies across teams but doesn’t always translate into match wins.
+
+
+### Screenshots / Demos
+![Dashboard preview]
