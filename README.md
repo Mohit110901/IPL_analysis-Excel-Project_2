@@ -57,4 +57,4 @@ Toss advantage varies across teams but doesn’t always translate into match win
 
 
 ### Screenshots / Demos
-![Dashboard preview]
+![Dashboard preview](https://github.com/Mohit110901/IPL_analysis-Excel-Project_2/blob/main/snapshot%20of%20ipl%20analysis.png)
